@@ -2,18 +2,18 @@ BEGIN:VCARD
 VERSION:3.0
 N:Bizeray;John;;;
 FN:John Bizeray
-ORG:Secure Autum
+ORG:Secure Autumn
 ADR;TYPE=WORK:
 TITLE:Trainer / Director
-TEL;TYPE=CELL:+44(0)2032863334
+TEL;TYPE=CELL:=44(0)2032863334
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:biz@secureautumn.co.uk
-URL;TYPE=Digital Business Card:
-URL:
-
+URL;TYPE=Digital Business Card:https://mr-biz.github.io/
+URL:secureautumn.co.uk
+URL;TYPE=Website:secureautumn.co.uk
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:Secure Autumn Summary:Secure Autumn is a platform committed to enhancing the mobile security skills of older adults through educational workshops. Recognizing that older adults are particularly vulnerable to cyber threats due to being less tech-savvy, the organization offers clear instructions on adjusting device settings, identifying attacks, and implementing essential security practices.Workshops cover topics such as the importance of cybersecurity, identity theft awareness, mobile phone physical security, and best security practices. Participants learn to create strong passwords, use two-factor authentication, and avoid phishing attacks. Secure Autumn emphasizes the importance of strong passwords and provides a password strength tester.By attending these workshops, older adults can improve their mobile security knowledge and take proactive measures to protect themselves from cyber threats, ensuring a safer online experience.
-UID:EnBizCard-100340372
+NOTE:Secure Autumn is a platform committed to enhancing the mobile security skills of older adults through educational workshops. Recognizing that older adults are particularly vulnerable to cyber threats due to being less tech-savvy, the organization offers clear instructions on adjusting device settings, identifying attacks, and implementing essential security practices.Workshops cover topics such as the importance of cybersecurity, identity theft awareness, mobile phone physical security, and best security practices. Participants learn to create strong passwords, use two-factor authentication, and avoid phishing attacks. Secure Autumn emphasizes the importance of strong passwords and provides a password strength tester.By attending these workshops, older adults can improve their mobile security knowledge and take proactive measures to protect themselves from cyber threats, ensuring a safer online experience.
+UID:EnBizCard-100796666
 END:VCARD
